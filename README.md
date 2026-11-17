@@ -1,6 +1,6 @@
 # Oleksii Donetskyi
 
-🔭 Senior Full-Stack Engineer · 7+ yrs
+🔭 Engineering Team Lead · Former Senior Software Engineer with 9+ years of building and shipping
 <br> 
 ⬢ TypeScript · Node · Nest · Vue · React · Postgres · AWS
 <br> 
